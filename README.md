@@ -1,4 +1,4 @@
 RubyTheHardWay
 ==============
 
-from class
+account set up in class
